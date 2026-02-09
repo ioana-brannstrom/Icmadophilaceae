@@ -8,4 +8,5 @@ Here you'll find the scripts and pipelines associated to the study Onut-Brännst
 There are four main folders:
 
 Phylogenies: Phylogenies of the MAT locus of the Icmadophilaceae family, designed to run in UPPMAX (Uppsala Multidisciplinary Center for Advanced Computational Science).
+
 Lichen Ploidy: a Snakemake pipeline to infer the ploidy (sensu lato, since it would include heterokaryosis) from a (meta)genome, as well as additional analysis to show that the triploid-like samples look like hybrids.
