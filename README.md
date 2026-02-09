@@ -12,4 +12,5 @@ These are the following folders connected with the **Material & Methods** sectio
 2) Phylogeny inferred from 1,682 BUSCO genes used to investigate the evolutionary relationships within the Icmadophilaceae family
 
 **Lichen Ploidy**
-a Snakemake pipeline to infer the ploidy (sensu lato, since it would include heterokaryosis) from a (meta)genome, as well as additional analysis to show that the triploid-like samples look like hybrids.
+This analysis builds on scripts from the:  https://github.com/johannessonlab/Letharia/tree/master/LichenPloidy
+
